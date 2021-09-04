@@ -1,4 +1,4 @@
-# The Swag Room -- Chris' Website
+# Chris' First CS193 Homework
 
 ```markdown
 My Favourite Things About CS193:
